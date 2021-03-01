@@ -1,7 +1,7 @@
 # HelloWriters-Laravel7
 HelloWriters is a blog for writers to share their experience.
 
-### 1.HelloWriters-blog
+### 1.HelloWriters
 ![](screenshots/helloWriters-blog.png)
 
 ### 2.Blog Page
@@ -10,17 +10,18 @@ HelloWriters is a blog for writers to share their experience.
 ### 3.Author's Profile
 ![](screenshots/author-profile.png)
 
-### 4.Add Comment to Blog
-![](screenshots/comment.png)
-
-### 5.Comment Validation
-![](screenshots/comment_validation.png)
-
-### 6.Login Panel
+### 4.Login Panel
 ![](screenshots/login.png)
 
-### 7.Registration Form
+### 5.Registration Form
 ![](screenshots/Registration.png)
+
+### 6.Add Comment to Blog
+![](screenshots/comment.png)
+
+### 7.Comment Validation
+![](screenshots/comment_validation.png)
+
 
 ### 8.Author's(John deo)- Add Your Story To Blog page
 ![](screenshots/addStory.png)
