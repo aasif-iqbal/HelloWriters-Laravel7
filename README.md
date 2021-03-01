@@ -16,11 +16,11 @@ HelloWriters is a blog for writers to share their experience.
 ### 5.Registration Form
 ![](screenshots/Registration.png)
 
-### 6.Add Comment to Blog
-![](screenshots/comment.png)
-
-### 7.Comment Validation
+### 6.Comment Validation
 ![](screenshots/comment_validation.png)
+
+### 7.Add Comment to Blog
+![](screenshots/comment.png)
 
 
 ### 8.Author's(John deo)- Add Your Story To Blog page
